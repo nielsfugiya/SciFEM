@@ -1,0 +1,8 @@
+/u/g/ga/galileo2012/bin/deal.II/examples/step-29/CMakeFiles/runclean.dir
+/u/g/ga/galileo2012/bin/deal.II/examples/step-29/CMakeFiles/strip_comments.dir
+/u/g/ga/galileo2012/bin/deal.II/examples/step-29/CMakeFiles/run.dir
+/u/g/ga/galileo2012/bin/deal.II/examples/step-29/CMakeFiles/info.dir
+/u/g/ga/galileo2012/bin/deal.II/examples/step-29/CMakeFiles/step-29.dir
+/u/g/ga/galileo2012/bin/deal.II/examples/step-29/CMakeFiles/debug.dir
+/u/g/ga/galileo2012/bin/deal.II/examples/step-29/CMakeFiles/distclean.dir
+/u/g/ga/galileo2012/bin/deal.II/examples/step-29/CMakeFiles/release.dir

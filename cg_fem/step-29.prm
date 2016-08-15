@@ -1,0 +1,26 @@
+# Listing of Parameters
+# ---------------------
+
+subsection Mesh & geometry parameters
+
+  # Number of global mesh refinement steps applied to initial coarse grid
+  set Number of refinements = 5
+end
+
+
+subsection Physical constants
+  # Wave speed
+  set c     = 1.0e5
+
+  # Frequency
+  set omega = 5.0e6
+end
+
+
+subsection Output parameters
+  # Name of the output file (without extension)
+  set Output file   = solution
+
+  # A name for the output format to be used
+  set Output format = vtk
+end
