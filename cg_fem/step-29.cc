@@ -2,7 +2,9 @@
  *
  * Copyright (C) 2007 - 2013 by the deal.II authors
  *
- * This file is part of the deal.II library.
+ * The original file is part of the deal.II library. For Math676 project 
+ * Jianing has modified to solve wave scattering problem, perfect machted
+ * layer etc. were added to the new version
  *
  * The deal.II library is free software; you can use it, redistribute
  * it, and/or modify it under the terms of the GNU Lesser General
@@ -14,8 +16,9 @@
  * ---------------------------------------------------------------------
 
  *
- * Author: Moritz Allmaras, Texas A&M University, 2007
- */
+ * base version Author: Moritz Allmaras, Texas A&M University, 2007
+ * modified version Author: Jianig Zhang, Texas A&M University, 2015 
+*/
 
 
 
